@@ -141,7 +141,7 @@ To continuously learn, build meaningful projects, participate in technical chall
 
 * 💼 LinkedIn: [Abinaya K](https://www.linkedin.com/in/abinaya-k-224481337/)
 * 💻 GitHub: [@abi8270](https://github.com/abi8270)
-* 🌐 Portfolio: [Visit My Portfolio](https://magnificent-duckanoo-1da4b2.netlify.app)
+* 🌐 Portfolio: [Visit My Portfolio](neon-eclair-3cdc5c.netlify.app)
 
 ---
 
